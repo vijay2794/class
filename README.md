@@ -1,8 +1,5 @@
 1794421  Vishal "Life is full of struggles"
 
-1794810 Harsimran "Life is beautiful"
-
-
 1794858 Sirisha "Life sucks"
 
 1794750 Yograj "lol"
@@ -17,4 +14,4 @@
 
 1794821  simran "Life is great"
 
-
+1794716 Sai Kumar "Self-belief and hard work will always earn you success"

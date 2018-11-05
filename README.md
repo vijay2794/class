@@ -1,11 +1,5 @@
 1794421  Vishal "Life is full of struggles"
 
-1795328 kshitij "The more something threatens your identity, the more you will avoid it."
-
-
-1794810 Harsimran "Life is beautiful"
-
-
 1794858 Sirisha "Life sucks"
 
 1794750 Yograj "lol"
@@ -20,9 +14,21 @@
 
 1794821  simran "Life is great"
 
+
+
+1795037 karanpalsingh " i want personality not trivial"
+
+
+
+1795075 Aravind "I love those who can smile in trouble"
+
+
 1793897  baljeet "snow is coming"
 
 
 
 
+
+
 1794404 Aman "something is better than nothing"
+

@@ -1,7 +1,6 @@
 1794421  Vishal "Life is full of struggles"
 
 1794858 Sirisha "Life sucks"
-
 1794821  simran "Life is great"
 
 1794331  Gaurav "Never Back Down"
@@ -28,6 +27,7 @@
 
 
 1794821  simran "Life is great"
+1794716 Sai Kumar "Self-belief and hard work will always earn you success"
 
 
 
@@ -50,9 +50,6 @@
 1794882 Madhuri "Life throws you a thousand chances. All you have to do is take one and have faith……"
 
 
-
-
-
 1794404 Aman "something is better than nothing"
 1795000 pooja"“Be the change that you wish to see in the world.”
 
@@ -62,6 +59,7 @@
 1795596 Jaya Ram "Be good Do good"
 
 1794404 Aman "something is better than nothing"
+
 
 
 

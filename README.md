@@ -1,5 +1,10 @@
 1794421  Vishal "Life is full of struggles"
 
+1794821  simran "Life is great"
+
+1794331  Gaurav "Never Back Down"
+
+
 
 
 1793418 Muskan "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
@@ -50,4 +55,5 @@
 1795596 Jaya Ram "Be good Do good"
 
 1794404 Aman "something is better than nothing"
+
 

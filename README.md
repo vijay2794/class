@@ -8,15 +8,9 @@
 
 
 1794948  kavya "Montreal is awesome"
-
+1790074 Ajaypal "Hardwork is the key of Sucess"
 
 
 
 1794821  simran "Life is great"
-
-
-
-1794404 "Test"
-
-
 

@@ -1,6 +1,5 @@
 1794421  Vishal "Life is full of struggles"
 
-
 1794858 Sirisha "Life sucks"
 
 1794750 Yograj "lol"
@@ -18,10 +17,6 @@
 
 
 
-1794404 "Test"
-
-1794147  Akashdeep  "Hard work is a key to success"
-
 1795037 karanpalsingh " i want personality not trivial"
 
 
@@ -36,6 +31,6 @@
 
 
 
-
 1794404 Aman "something is better than nothing"
 
+1794960 vijayender " Either way, I think we can all do with a bit more spark to help us perform miracles and live in joy."

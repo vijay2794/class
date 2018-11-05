@@ -20,11 +20,8 @@
 
 1794821  simran "Life is great"
 
-
-1795075 Aravind "I love those who can smile in trouble"
-
 1793897  baljeet "snow is coming"
 
-
+1795596 Jaya Ram "Be good Do good"
 
 
